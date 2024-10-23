@@ -20,5 +20,5 @@ You will need to have Python installed. You can download it from the [official P
 
 1. Clone this repository or download the Python script.
    ```bash
-   git clone <repository-url>
+   (https://github.com/KJTL290/Kim__To_do_List.git)
    ```
